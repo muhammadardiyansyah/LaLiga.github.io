@@ -1,0 +1,24 @@
+{
+    "name": "Liga Spanyol",
+    "short_name": "LaLiga",
+    "description": "informasi lengkap liga spanyol",
+    "start_url": "/index.html",
+    "display": "standalone",
+    "background_color": "#ff9234",
+    "theme_color": "#ff9234",
+    "gcm_sender_id": "950057867696",
+    "icons": [
+        {
+            "src": "images/laliga1.png",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "any maskable"
+        },
+        {
+            "src": "images/laliga.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "any maskable"
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+.icon-block {
+  padding: 0 15px;
+}
+.icon-block .material-icons {
+	font-size: inherit;
+}
+
+.team-container{
+	padding: 2em;
+}
+
+.btn-save{
+	position: fixed;
+	bottom: 4em;
+	right: 4em;
+}
+
+a{
+	cursor: pointer;
+}
+
+body {
+	display: flex;
+	min-height: 100vh;
+	flex-direction: column;
+}
+.container{
+	flex: 1 0 auto;
+}
+.container .col h1{
+	font-size: xx-large;
+}
