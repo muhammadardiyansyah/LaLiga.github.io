@@ -1,2 +1,2 @@
 firebase https://laliga-231e0.web.app
-github https://github.com/muhammadardiyansyah/LaLiga.github.io/actions/new
+github https://github.com/muhammadardiyansyah/LaLiga.github.io
